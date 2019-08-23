@@ -1,4 +1,4 @@
-# images
+# Vue - Images Library
 
 ## Project setup
 ```
