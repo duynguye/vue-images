@@ -1,6 +1,10 @@
 <template>
   <div>
     <app-header></app-header>
+    
+    <div class="ui container">
+      <router-view></router-view>
+    </div>
   </div>
 </template>
 
